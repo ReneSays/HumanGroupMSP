@@ -1,4 +1,4 @@
-# Versiones disponibles
+# Versiones ponibles
 # forge, mohist, fabric, vanilla, paper
 
 # Puedes instalar mohist después de instalar forge desde el menú de gestionar
@@ -16,19 +16,6 @@
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # No toques nada de aquí para abajo, puedes dañarlo
 import requests,os,base64,glob,time
